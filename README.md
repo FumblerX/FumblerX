@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there! 👋  
 
-<!--
-**FumblerX/FumblerX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Master's student specializing in Information Security and a working as cybersecurity threat monitoring expert. Passionate about everything related to:  
 
-Here are some ideas to get you started:
+🔹 **SIEM** – Security Information and Event Management  
+🔹 **SOAR** – Security Orchestration, Automation, and Response  
+🔹 **WAF** – Web Application Firewalls  
+🔹 **NGFW** – Next-Generation Firewalls  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m always exploring new technologies, improving security monitoring strategies, and diving deeper into the world of cyber defense.  
+
+💡 Open to collaborations and knowledge sharing!  
+
+📫 Feel free to connect
+
+🚀 Let's make the cyber world a safer place!  
